@@ -2,46 +2,14 @@
 
 ## Lab 1: Username enumeration via different responses
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-![](https://hackmd.io/_uploads/Sy6Lqmxl6.png)
-
-- Bài lap này dễ bị tấn công bằng cách liệt kê tên người dùng và mật khẩu. Nó có một tài khoản với tên người dùng và mật khẩu có thể dự đoán được, có thể tìm thấy trong danh sách từ sau:
-=======
 ![](https://i.imgur.com/6m4Lslq.png)
 
 - Bài lab này dễ bị tấn công bằng cách liệt kê tên người dùng và mật khẩu. Nó có một tài khoản với tên người dùng và mật khẩu có thể dự đoán được, có thể tìm thấy trong danh sách từ sau:
->>>>>>> 86096e4 (update fies)
-=======
-![](https://i.imgur.com/6m4Lslq.png)
 
-- Bài lab này dễ bị tấn công bằng cách liệt kê tên người dùng và mật khẩu. Nó có một tài khoản với tên người dùng và mật khẩu có thể dự đoán được, có thể tìm thấy trong danh sách từ sau:
->>>>>>> 86096e4b747787edc3bf7f1fb03f60a15d0c495f
   + Candidate usernames
   + Candidate passwords
 - Đầu tiên ta sẽ lấy mẫu intruder bằng cách đăng nhập thử với user: admin password: 123456. Sau đó ta sẽ vào tab proxy tại thẻ http history ta gửi url login đến intruder
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-![](https://hackmd.io/_uploads/BkXKcmgg6.png)
-
-
-- Ta thực hiện brute-force với 2 đối tượng là username và password với attack tyle là Cluster Bomb với các tài khoản và mật khẩu được cung cấp ở Candidate usernames và Candidate passwords
-
-![](https://hackmd.io/_uploads/H14qcmegT.png)
-
-
-- Sau một hồi brute-force ta nhận thấy những request trả về status 200 là các giá trị sai vì hầu hết các request đều trả về stutus 200 và stutus 302 là request mà chúng ta cần tìm 
-
-![](https://hackmd.io/_uploads/SJZs9Qgea.png)
-
-
-- Vậy là ta có username: apollo password: abc123
-
-![](https://hackmd.io/_uploads/SJF29Qex6.png)
-=======
-=======
->>>>>>> 86096e4b747787edc3bf7f1fb03f60a15d0c495f
 ![Alt text](https://i.imgur.com/7ZZ4AGB.png)
 
 - Ta thực hiện brute-force với 2 đối tượng là username và password với attack tyle là Cluster Bomb với các tài khoản và mật khẩu được cung cấp ở Candidate usernames và Candidate passwords
