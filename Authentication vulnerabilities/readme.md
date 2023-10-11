@@ -474,9 +474,4 @@ Thông tin đăng nhập được gửi đi dưới dạng json. Tuy nhiên,
     ]
 ```
 ![](https://i.imgur.com/hk5cDL4.png)
-<<<<<<< HEAD
-![](https://i.imgur.com/CROdqqG.png)
->>>>>>> 86096e4 (update fies)
-=======
-![](https://i.imgur.com/CROdqqG.png)
->>>>>>> 86096e4b747787edc3bf7f1fb03f60a15d0c495f
+
